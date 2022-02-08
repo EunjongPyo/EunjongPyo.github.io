@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TITLE"
+title                    : "Go!-!"
 title_separator          : "-"
 subtitle                 : "결국 블로그까지 한다.. 하는 김에 잘해보자" # site tagline that appears below site title in masthead
 name                     : "표은종(Eunjong Pyo)"
