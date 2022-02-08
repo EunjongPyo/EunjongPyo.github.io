@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "TITLE"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "결국 블로그까지 한다.. 하는 김에 잘해보자" # site tagline that appears below site title in masthead
+name                     : "표은종(Eunjong Pyo)"
+description              : "개인적인 발자취"
 url                      : "https://EunjongPyo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "표은종(Eunjong Pyo)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
